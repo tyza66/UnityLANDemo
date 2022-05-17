@@ -116,9 +116,43 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:MIRROR
+-define:MIRROR_17_0_OR_NEWER
+-define:MIRROR_18_0_OR_NEWER
+-define:MIRROR_24_0_OR_NEWER
+-define:MIRROR_26_0_OR_NEWER
+-define:MIRROR_27_0_OR_NEWER
+-define:MIRROR_28_0_OR_NEWER
+-define:MIRROR_29_0_OR_NEWER
+-define:MIRROR_30_0_OR_NEWER
+-define:MIRROR_30_5_2_OR_NEWER
+-define:MIRROR_32_1_2_OR_NEWER
+-define:MIRROR_32_1_4_OR_NEWER
+-define:MIRROR_35_0_OR_NEWER
+-define:MIRROR_35_1_OR_NEWER
+-define:MIRROR_37_0_OR_NEWER
+-define:MIRROR_38_0_OR_NEWER
+-define:MIRROR_39_0_OR_NEWER
+-define:MIRROR_40_0_OR_NEWER
+-define:MIRROR_41_0_OR_NEWER
+-define:MIRROR_42_0_OR_NEWER
+-define:MIRROR_43_0_OR_NEWER
+-define:MIRROR_44_0_OR_NEWER
+-define:MIRROR_46_0_OR_NEWER
+-define:MIRROR_47_0_OR_NEWER
+-define:MIRROR_53_0_OR_NEWER
+-define:MIRROR_55_0_OR_NEWER
+-define:MIRROR_57_0_OR_NEWER
+-define:MIRROR_58_0_OR_NEWER
+-define:MIRROR_65_0_OR_NEWER
+-define:MIRROR_66_0_OR_NEWER
 -define:ENABLE_SPRITESHAPE_BURST
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll"
+-r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll"
+-r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll"
+-r:"Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.2f1c1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.2f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.2f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
